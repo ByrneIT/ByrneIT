@@ -1,48 +1,38 @@
-🔥 ByrneIT — Security‑Focused Engineer & Builder
-Hi, I’m Allen (ByrneIT) — a hybrid engineer working at the intersection of security, automation, and practical web infrastructure. I build tools that help small businesses stay safe, fast, and resilient online.
+# 🔥 ByrneIT — Security-Focused Engineer & Builder
 
-🛠️ What I Work With
-Security & Infra:
+Hi, I'm Allen — a cybersecurity student and builder working at the 
+intersection of security, automation, and practical infrastructure. 
+I came up through industrial operations and taught myself to build 
+the tools I wished existed.
 
-Web security fundamentals
+---
 
-DNS, SPF/DMARC, SSL/TLS
+## 🛡️ AchillesOracle
+A passive web security scanner I built from scratch.
+26 checks — SSL, DNS, headers, ports, exposed files, and more.
+Scores your public-facing domain like a report card.
 
-SIEM (Wazuh), pfSense, FreeIPA
+**Live at → [scan.byrnehost.me](https://scan.byrnehost.me)**
+Free during beta. No account required.
 
-Linux (Ubuntu, Rocky), Docker
+---
 
-Development:
+## 🛠️ What I Work With
 
-Python
+**Security & Infra:**
+pfSense · Docker · Wazuh SIEM · FreeIPA
+DNS · SSL/TLS · SPF/DMARC · Linux (Ubuntu, Rocky)
 
-JavaScript / Node
+**Development:**
+Python · FastAPI · JavaScript · React · Bash · API Design
 
-Bash scripting
+---
 
-API design
-
-Automation tooling
-
-🔍 Current Focus
-Developing a lightweight website security scanner aimed at small businesses and freelancers who need fast, actionable insights without enterprise‑level complexity.
-Currently in development.
-
-📦 Repositories You’ll Find Here
-Tools — small utilities for DNS checks, SPF validation, log parsing, and automation
-
-Labs — documentation of home lab builds, SIEM setups, and security experiments
-
-Portfolio — case studies, write‑ups, and project summaries
-
-Open‑source components of ongoing projects
-
-📫 Contact
+## 📫 Contact
 Email: allen@byrnehost.me
-Website: https://byrnehost.me
+Website: [byrnehost.me](https://byrnehost.me)
 
-⚡ Philosophy
-Build small.
-Ship fast.
-Secure everything.
-Help people who don’t have enterprise budgets stay safe online.
+---
+
+*Build small. Ship fast. Secure everything.*
+*Help people who don't have enterprise budgets stay safe online.*
